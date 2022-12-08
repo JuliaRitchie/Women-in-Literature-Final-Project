@@ -1,0 +1,48 @@
+body{
+    background-color: #4a051c;
+    color: #fbffb9;
+}
+img{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+#group-one{
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    margin-bottom: 10px;
+}
+
+#group-two{
+    width: 300px;
+    padding: 50px;
+    margin-left: 300px;
+    margin-top: -360px;
+    margin-bottom: 10px;
+}
+
+#group-three{
+    width: 300px;
+    padding: 50px;
+    margin-left: 600px;
+    margin-top: -360px;
+    margin-bottom: 10px;
+}
+
+#group-four{
+    width: 300px;
+    padding: 50px;
+    margin-left: 900px;
+    margin-top: -360px;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#center{
+    text-align: center;
+}
