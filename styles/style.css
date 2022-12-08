@@ -1,7 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bodoni+Moda:opsz@6..96&display=swap');
+header {
+    background-color: #fbffb9;
+    color: #4a051c;
+    display: grid;
+    grid-template-columns: 150px auto;
+    
+}
+
+nav a{
+    color: #4a051c;
+    text-decoration: none;
+    font-size: 40px;
+}
+
 body{
     background-color: #4a051c;
     color: #fbffb9;
+    font-family: 'Bodoni Moda';
+    
 }
+
 img{
     max-width: 200px;
     max-height: 200px;
@@ -45,4 +63,25 @@ h2{
 }
 #center{
     text-align: center;
+}
+#homepage-text{
+    margin-left: 100px;
+}
+
+#motherhood-text{
+    margin-left: 300px;
+    margin-top: -100px;
+}
+
+#society-text{
+    margin-left: 600px;
+}
+
+#marriage-text{
+    margin-left: 900px;
+    margin-top: -100px;
+}
+
+#domesticity-text{
+    margin-left: 1100px;
 }
