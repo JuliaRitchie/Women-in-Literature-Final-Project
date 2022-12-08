@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bodoni+Moda:opsz@6..96&display=swap');
 header {
     background-color: #fbffb9;
-    color: #4a051c;
-    display: grid;
-    grid-template-columns: 150px auto;
-    
+    color: #4a051c;    
 }
 
 nav a{
     color: #4a051c;
     text-decoration: none;
-    font-size: 40px;
+    font-size: 22px;
+    padding: 50px;
+    text-align: center;
+    
 }
 
 body{
@@ -36,7 +36,7 @@ img{
     width: 300px;
     padding: 50px;
     margin-left: 300px;
-    margin-top: -360px;
+    margin-top: -370px;
     margin-bottom: 10px;
 }
 
@@ -44,7 +44,7 @@ img{
     width: 300px;
     padding: 50px;
     margin-left: 600px;
-    margin-top: -360px;
+    margin-top: -370px;
     margin-bottom: 10px;
 }
 
@@ -52,7 +52,7 @@ img{
     width: 300px;
     padding: 50px;
     margin-left: 900px;
-    margin-top: -360px;
+    margin-top: -370px;
 }
 
 h1{
@@ -65,23 +65,23 @@ h2{
     text-align: center;
 }
 #homepage-text{
-    margin-left: 100px;
+    margin-left: 25px;
 }
 
 #motherhood-text{
-    margin-left: 300px;
-    margin-top: -100px;
+    margin-left: 25px;
+    margin-top: -15px;
 }
 
 #society-text{
-    margin-left: 600px;
+    margin-left: 25px;
 }
 
 #marriage-text{
-    margin-left: 900px;
+    margin-left: 25px;
     margin-top: -100px;
 }
 
 #domesticity-text{
-    margin-left: 1100px;
+    margin-left: 20px;
 }
